@@ -1,0 +1,7 @@
+transformers
+pymupdf
+pytesseract
+pillow
+huggingface_hub
+tesseract-ocr
+libtesseract-dev
